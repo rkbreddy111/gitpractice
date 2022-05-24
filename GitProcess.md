@@ -24,3 +24,5 @@ Git Process:
 
 7.Pushing the committed changes
 
+use `git push origin <branch-name>` to push your changes to remote
+
