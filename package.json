@@ -1,0 +1,22 @@
+{
+  "name": "react-github-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logu89/react-github-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logu89/react-github-training/issues"
+  },
+  "homepage": "https://github.com/logu89/react-github-training#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
