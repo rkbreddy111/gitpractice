@@ -26,3 +26,8 @@ Git Process:
 
 use `git push origin <branch-name>` to push your changes to remote
 
+--- Added by Mohamed ismail
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_kangundi
+testing line
+
